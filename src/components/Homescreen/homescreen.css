@@ -1,0 +1,12 @@
+
+
+
+.homescreenContainer{
+    height:100vh;
+    overflow-y:scroll;
+    background-image:url(../../assets/bg-mobile-img.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding-bottom:1rem;
+}

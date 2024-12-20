@@ -1,0 +1,83 @@
+
+
+.searchResultContainer{
+    margin-top:3rem;
+}
+
+.searchResultHeader{
+    font-size:2rem;
+    font-family: "Barlow", sans-serif;
+    text-decoration:underline;
+    color:#fff; 
+}
+
+.searchResultDetailsContainer{
+    margin-top:2rem;
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+}
+
+.searchResultDetailsHeader{
+    font-size:1.2rem;
+    font-family: "Barlow", sans-serif;
+    color:#0bdfe6;
+}
+
+.searchResultDetailsSpeech{
+    font-size:2rem;
+    font-family: "Barlow", sans-serif;
+    color:#0bdfe6;
+}
+
+.searchResultDetailsParagraph{
+    font-size:1.3rem;
+    font-family: "Barlow", sans-serif;
+    text-transform:capitalize;
+    color:#fff;
+    margin-bottom:1rem;
+}
+
+.searchResultDetailsListContainer{
+    font-size:1rem;
+    font-family: "Barlow", sans-serif;
+    color:#fff;
+    list-style-position:inside;
+    margin-bottom:1.5rem;
+}
+
+.searchResultDetailsListPresent{
+    display:block;
+    margin-top:0.5rem;
+}
+
+.searchResultDetailsListAbsent{
+    display:none;
+    /* margin-top:1rem; */
+}
+
+.searchResultDetailsAntonymListContainer{
+    font-size:1rem;
+    font-family: "Barlow", sans-serif;
+    color:#fff;
+    list-style-type:square;
+    list-style-position:inside;
+    /* margin-bottom:0.5rem; */
+}
+
+.searchResultDetailsAntonymList{
+    text-transform:capitalize;
+}
+
+.searchResultDetailsSynonymListContainer{
+    font-size:1rem;
+    font-family: "Barlow", sans-serif;
+    color:#fff;
+    list-style-type:square;
+    list-style-position:inside;
+    /* margin-bottom:0.5rem; */
+}
+
+.searchResultDetailsSynonymList{
+    text-transform:capitalize;
+}
